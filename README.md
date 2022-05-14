@@ -12,6 +12,7 @@ Built with:
 HTML5
 CSS3
 JAVASCRIPT
+
 Getting Started
 
 Just open index.html with your browser and enjoy increase and decrease the number of my counter. You can open the folders and see how i wrote the code, you could even open it with Liveserver VSC's extension.
@@ -26,7 +27,7 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature) Commit your 
 
 CONTACT
 
-Riccardo Rana - riccardorana@hotmail.com - LinkedIn: https://www.linkedin.com/in/riccardo-rana-243a0515b/
+Riccardo Rana - riccardorana@hotmail.com 
 
 Project Link: https://github.com/RiccardoRana/JavascriptBasics-Start2Impact
 
